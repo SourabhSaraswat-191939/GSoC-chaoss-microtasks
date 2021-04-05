@@ -8,23 +8,23 @@ Proposal : [GSoC-2021 Proposal](https://docs.google.com/document/d/1_4VhenTS9VmY
 
 ## Microtasks Completed :+1:
 
-### [Microtask-0]() :heavy_check_mark:
+### [Microtask-0](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/tree/main/microtask-0) :heavy_check_mark:
 > Download PyCharm and get familiar with it (for instance, you can follow this tutorial).
  
-### [Microtask-1]() :heavy_check_mark:
+### [Microtask-1](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/tree/main/microtask-1) :heavy_check_mark:
 > Set up a dev environment to work on GrimoireLab. Have a look at chaoss/grimoirelab-sirmordred - Getting-Started.md.
 
-### [Microtask-2]() :heavy_check_mark:
+### [Microtask-2](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/tree/main/microtask-2) :heavy_check_mark:
 > Execute micro-mordred to collect, enrich and visualize data from Git repositories.
 
-### [Microtask-3]() :heavy_check_mark:
+### [Microtask-3](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/tree/main/microtask-3) :heavy_check_mark:
 > Based on the elasticsearch documents produced by micro-mordred and source code of chaoss/grimoirelab-elk, try to answer the following questions:
 > What is the meaning of the JSON attribute 'author_id', 'author_org_name', 'author_uuid', 'author_domain', 'uuid', 'utc_commit', 'origin' .
 
 <!-- ### [Microtask-4]() :heavy_check_mark:
 > Set up the developer environment of SortingHat (muggle branch).
  -->
-### [Microtask-5]() :heavy_check_mark:
+### [Microtask-5](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/tree/main/microtask-5) :heavy_check_mark:
 > Create a sample profile with different identities and enrollments using the SortingHat UI.
  
 <!-- ### [Microtask-6]() :heavy_check_mark:
@@ -36,7 +36,7 @@ Proposal : [GSoC-2021 Proposal](https://docs.google.com/document/d/1_4VhenTS9VmY
 ### [Microtask-9]() :heavy_check_mark:
 > Submit a PR to any of the GrimoireLab components to increase the test coverage of one or more files of the source code.
 --> 
-### [Microtask-10]() :heavy_check_mark:
+### [Microtask-10](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/tree/main/microtask-10) :heavy_check_mark:
 > Submit at least a PR to one of the GrimoireLab repositories to fix an issue, improve the documentation, etc .
  
 ## About Me
