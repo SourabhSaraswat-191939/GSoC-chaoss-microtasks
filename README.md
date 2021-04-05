@@ -47,7 +47,7 @@ Proposal : [GSoC-2021 Proposal](https://docs.google.com/document/d/1_4VhenTS9VmY
 - I am Good in skills with JS, Vue.JS, Python, Django, MySQL, PostgreSQL .
 - I have industry experiences in Python, Django with my interships .
 - I have numbers of projects in Web Development . One of my Live project with a company name as [Medicare Solution](http://www.medicaresolution.in/) .
-- I am a Speaker at Technical Club of my University .
+- I am a member and Speaker of [ByteCodeLearners](https://www.bytecodelearners.club/),Technical Club of my University .
 - I love to know about new technologies and work on them .
 - I always looks to collaborate on Projects which can solve massive level Real world Problems that's why i am really interested in contributing to CHAOSS .
 - I am passionate, hardworking . My greatest strength is my positive attitude , even during the most hardest of times .
