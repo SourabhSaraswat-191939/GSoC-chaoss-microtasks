@@ -1,0 +1,30 @@
+## Microtask-4
+
+Set up the developer environment of SortingHat (muggle branch).
+
+- Forked grimoirelab-sortinghat Repository .
+- Clone the repositiry .
+- Navigate to muggle branch using `git checkout muggle`.
+- Create a virtualenv to install all requirements .
+- Create a database in MySQL with name `sortinghat_db` .
+- After this, moving on to next step we recieve an error 
+
+    :x: "Error loading MySQLdb module: No module named 'MySQLdb'" :x:
+ 
+ 
+   due to MySQLdb is only for Python 2.x .So to make it work for Python 3.x .
+   
+   So to solve as per [Stackoverflow](https://stackoverflow.com/questions/39574813/error-loading-mysqldb-module-no-module-named-mysqldb/39575675) .
+   I added some set of line in `config/settings/init.py` . This __init__.py would be executed when we run the Django project, and MySQLdb will be replaced.
+      
+      import pymysql
+      pymysql.version_info = (1, 4, 0, "final", 0)
+      pymysql.install_as_MySQLdb()
+   
+- Now, Running the backend using command :
+      
+      ./manage.py runserver --settings=config.settings.devel
+      
+#### Here is the Screenshot of backend server running:
+
+![running_backend_sortinghat](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/new/main/microtask-4/running_backend_sortinghat.png)
