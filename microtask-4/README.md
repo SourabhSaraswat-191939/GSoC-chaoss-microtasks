@@ -35,5 +35,5 @@ Set up the developer environment of SortingHat (muggle branch).
         
 #### Here is the Screenshot of frontend server running:
 
-![Running_frontend.png](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/blob/main/microtask-4/Running_frontend.png.png)
+![Running_frontend.png](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/blob/main/microtask-4/Running_frontend.png)
   
