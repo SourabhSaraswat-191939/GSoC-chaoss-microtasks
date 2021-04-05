@@ -27,4 +27,13 @@ Set up the developer environment of SortingHat (muggle branch).
       
 #### Here is the Screenshot of backend server running:
 
-![running_backend_sortinghat](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/new/main/microtask-4/running_backend_sortinghat.png)
+![running_backend_sortinghat](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/blob/main/microtask-4/running_backend_sortinghat.png)
+
+- Now, Running the frontend by installing yarn and using following command in `/ui` directory :
+
+        yarn serve
+        
+#### Here is the Screenshot of frontend server running:
+
+![Running_frontend.png](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/blob/main/microtask-4/Running_frontend.png.png)
+  
