@@ -27,12 +27,13 @@ Proposal : [GSoC-2021 Proposal](https://docs.google.com/document/d/1_4VhenTS9VmY
 ### [Microtask-5](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/tree/main/microtask-5#Microtask-5) :heavy_check_mark:
 > Create a sample profile with different identities and enrollments using the SortingHat UI.
  
-<!-- ### [Microtask-6]() :heavy_check_mark:
+### [Microtask-6](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/tree/main/microtask-6#Microtask-6) :heavy_check_mark:
 > Using the SortingHat GraphQL Console, create a query that fetches the data (identities, enrollments) of an individual profile.
+<!-- 
 ### [Microtask-7]() :heavy_check_mark:
 > Create a script that can parse the gitdm developer affiliation files and load the data in a SortingHat database using GraphQL.
 --> 
-### [Microtask-8]() :heavy_check_mark:
+### [Microtask-8](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/tree/main/microtask-8#Microtask-8) :heavy_check_mark:
 > Improve the visualization of the individualCards component. You need not send a PR, please update the work in your personal fork.
 
 <!-- ### [Microtask-9]() :heavy_check_mark:
