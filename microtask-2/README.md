@@ -13,7 +13,7 @@ Executing micro-mordred to collect, enrich and visualizing data from Git reposit
 3. Created a configuration in PyCharm to speed up the executions of micro-mordred .
    
    Screenshot after creating Configuration :
-   ![after_creating_Conf](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/blob/main/microtask-2/after_creating_conf.png)
+   ![after_creating_Conf](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/blob/main/microtask-2/after_creating_Conf.png)
    
 4. Executed micro-mordred , but I received an error :
    
