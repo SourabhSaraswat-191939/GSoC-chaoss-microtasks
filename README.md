@@ -31,9 +31,11 @@ Proposal : [GSoC-2021 Proposal](https://docs.google.com/document/d/1_4VhenTS9VmY
 > Using the SortingHat GraphQL Console, create a query that fetches the data (identities, enrollments) of an individual profile.
 ### [Microtask-7]() :heavy_check_mark:
 > Create a script that can parse the gitdm developer affiliation files and load the data in a SortingHat database using GraphQL.
+--> 
 ### [Microtask-8]() :heavy_check_mark:
 > Improve the visualization of the individualCards component. You need not send a PR, please update the work in your personal fork.
-### [Microtask-9]() :heavy_check_mark:
+
+<!-- ### [Microtask-9]() :heavy_check_mark:
 > Submit a PR to any of the GrimoireLab components to increase the test coverage of one or more files of the source code.
 --> 
 ### [Microtask-10](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/tree/main/microtask-10#Microtask-10) :heavy_check_mark:
