@@ -21,9 +21,9 @@ Proposal : [GSoC-2021 Proposal](https://docs.google.com/document/d/1_4VhenTS9VmY
 > Based on the elasticsearch documents produced by micro-mordred and source code of chaoss/grimoirelab-elk, try to answer the following questions:
 > What is the meaning of the JSON attribute 'author_id', 'author_org_name', 'author_uuid', 'author_domain', 'uuid', 'utc_commit', 'origin' .
 
-<!-- ### [Microtask-4]() :heavy_check_mark:
+### [Microtask-4](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/tree/main/microtask-4#Microtask-4) :heavy_check_mark:
 > Set up the developer environment of SortingHat (muggle branch).
- -->
+
 ### [Microtask-5](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/tree/main/microtask-5#Microtask-5) :heavy_check_mark:
 > Create a sample profile with different identities and enrollments using the SortingHat UI.
  
