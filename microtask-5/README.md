@@ -11,6 +11,9 @@ Create a sample profile with different identities and enrollments using the Sort
 ### Adding Individual Profile
 ![adding_individual_profile](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/blob/main/microtask-5/adding_individual.png)
 
+### After Adding Individual Profile
+![after_adding_individual_profile](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/blob/main/microtask-5/after_adding_individual.png)
+
 ### After Adding Several Profiles
 ![adding_several profile](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/blob/main/microtask-5/adding_several_profiles.png)
 
