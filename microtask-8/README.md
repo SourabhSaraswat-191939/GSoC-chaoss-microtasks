@@ -17,3 +17,5 @@ Change in background of WorkSpace component to aliceblue `f0f8ff` .
 
 ### After Changes, visualization of the individualCards component
 ![after_changes](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks/blob/main/microtask-8/after_changes.png)
+
+Changes Source Code => [https://github.com/SourabhSaraswat-191939/grimoirelab-sortinghat/tree/microtask_edits_muggle/ui/src/components](https://github.com/SourabhSaraswat-191939/grimoirelab-sortinghat/tree/microtask_edits_muggle/ui/src/components)
