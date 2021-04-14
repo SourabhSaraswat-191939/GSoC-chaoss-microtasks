@@ -11,7 +11,6 @@ Submit at least a PR to one of the GrimoireLab repositories to fix an issue, imp
 
 #### chaoss/grimoirelab-sortinghat
 - [#524](https://github.com/chaoss/grimoirelab-sortinghat/pull/524) Improve Mobile UI of Sortinghat Muggle Branch dashboard.
-- [#504](https://github.com/chaoss/grimoirelab-sortinghat/pull/504) Update database name.
 
 #### chaoss/governance
 - [#244](https://github.com/chaoss/governance/pull/244) Updated Older Micro-task Link to GSOC'21 idea list link.
