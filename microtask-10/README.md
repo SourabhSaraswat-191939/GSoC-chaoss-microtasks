@@ -1,4 +1,4 @@
-### successful PULL REQUESTS
+### SUCCESSFUL PULL REQUESTS
 
 #### chaoss/grimoirelab-sirmordred
 - [#501](https://github.com/chaoss/grimoirelab-sirmordred/pull/501) [docs] Update the mariadb docker-compose configuration.
