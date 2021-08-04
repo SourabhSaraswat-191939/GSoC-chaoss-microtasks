@@ -1,4 +1,4 @@
-### SUCCESSFUL PULL REQUESTS
+### MY SUCCESSFULLY MERGED PULL REQUESTS FOR CHAOSS, BITERGIA ORGANIZATIONS
 
 #### chaoss/grimoirelab-sirmordred
 - [#501](https://github.com/chaoss/grimoirelab-sirmordred/pull/501) [docs] Update the mariadb docker-compose configuration.
